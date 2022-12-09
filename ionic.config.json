@@ -1,0 +1,7 @@
+{
+  "name": "Aiki",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
